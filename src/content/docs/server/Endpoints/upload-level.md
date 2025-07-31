@@ -15,10 +15,10 @@ The endpoint URL is `http://georays.puppet57.xyz/php-code/upload-level.php`, to 
 
 # Responses
 
-| Response Message     | Cause/Reason                                |
-| -------------------- | ------------------------------------------- |
-| `Level too big!`     | Level data over a unknown size was provided |
-| `Level Uploaded!`    | Level uploaded successfully                 |
-| `Password Invalid`   | A incorrect password was provided           |
-| `User doesn't exist` | Creator user doesn't exist                  |
-| `invalid_request`    | A invalid request was provided              |
+| Response Message     | Cause/Reason                      |
+| -------------------- | --------------------------------- |
+| `Level too big!`     | Level data over 1mb was provided  |
+| `Level Uploaded!`    | Level uploaded successfully       |
+| `Password Invalid`   | A incorrect password was provided |
+| `User doesn't exist` | Creator user doesn't exist        |
+| `invalid_request`    | A invalid request was provided    |
