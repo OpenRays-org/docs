@@ -2,7 +2,7 @@
 title: get-latest-version.php
 ---
 
-The endpoint URL is `http://georays.puppet57.xyz/php-code/login.php`, to the get latest version of geometry rays you will need to send a post request with the following data
+The endpoint URL is `http://georays.puppet57.xyz/php-code/get-latest-version.php`, to the get latest version of geometry rays you will need to send a post request with the following data
 
 | Key    | Type     | required |
 | ------ | -------- | -------- |
