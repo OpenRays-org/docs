@@ -17,6 +17,10 @@ export default defineConfig({
         {
           label: 'Server Info',
           autogenerate: { directory: 'server' }
+        },
+        {
+          label: 'Data/Save Info',
+          autogenerate: { directory: 'data' }
         }
       ]
     })
